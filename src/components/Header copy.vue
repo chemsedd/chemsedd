@@ -1,19 +1,22 @@
 <template>
   <nav class="navbar navbar-expand-sm navbar-dark blue-gradient shadow sticky-top">
-    <router-link class="navbar-brand font-weight-bold" to="/">Chemsedd</router-link>
+    <a class="navbar-brand font-weight-bold" href="../../public\index.html">Chemsedd</a>
     <div class="collapse navbar-collapse" id="collapsibleNavId">
       <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-        <li class="nav-item">
-          <router-link class="nav-link" to="/">Home</router-link>
+        <li class="nav-item active">
+          <a class="nav-link" href="../../public\index.html">
+            Home
+            <span class="sr-only">(current)</span>
+          </a>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/work">Work</router-link>
+          <a class="nav-link" href="../../public\work.html">Work</a>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/about">About</router-link>
+          <a class="nav-link" href="#">About me</a>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/contact">Contact</router-link>
+          <a class="nav-link" href="#">Contact</a>
         </li>
       </ul>
     </div>
