@@ -19,20 +19,20 @@ export default {
     title: {
       type: String,
       default: "Logo concept",
-      required: true
+      required: true,
     },
     filename: {
       type: String,
       default: "https://picsum.photos/1080",
-      required: true
-    }
+      required: true,
+    },
   },
   computed: {
-    path: function() {
+    path: function () {
       return require(`@/assets/logos/${this.filename}.jpg`);
-    }
+    },
   },
-  methods: {}
+  methods: {},
 };
 </script>
 

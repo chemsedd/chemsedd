@@ -1,7 +1,10 @@
 <template>
   <div class="row align-items-center p-5">
     <div class="col-md-7 text-dark text-right">
-      <h1 class="display-3 font-weight-bold">About me</h1>
+      <h1 class="display-3 font-weight-bold">
+        About me
+        <h5 class="font-weight-bold">{programmer}</h5>
+      </h1>
       <p>
         Hello, my name is
         <strong>Chems Eddine Senoussi</strong>, I'm a Computer Science graduate with a master's degree in Artificial Intelligence. I've worked on small projects as a frontend and a backend developer. I mainly use Vue.js and Bootstrap 4 (Frontend), and Django (Backend).
@@ -17,7 +20,7 @@
 
 <script>
 export default {
-  name: "AboutMe"
+  name: "AboutMe",
 };
 </script>
 

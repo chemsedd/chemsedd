@@ -2,7 +2,7 @@
   <div>
     <!-- Modal -->
     <div>
-      <logo-modal title="whatever" logoname="dmps" />
+      <logo-modal :title="title" :logoname="logoname" />
     </div>
     <!-- Logos -->
     <div class="row p-4">
@@ -57,8 +57,14 @@ export default {
   name: "LogosRow",
   components: {
     LogoModal,
-    Logo
-  }
+    Logo,
+  },
+  data: function () {
+    return {
+      title: "Logo title",
+      logoname: "arduino",
+    };
+  },
 };
 </script>
 

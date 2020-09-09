@@ -1,10 +1,17 @@
 <template>
-  <h1>Programming</h1>
+  <div class="container">
+    <ProgramsRow />
+  </div>
 </template>
 
 <script>
+import ProgramsRow from "@/components/Work/ProgramsRow.vue";
+
 export default {
-  name: "ProgrammingView"
+  name: "ProgrammingView",
+  components: {
+    ProgramsRow,
+  },
 };
 </script>
 
