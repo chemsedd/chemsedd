@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "Smart Green",
+      "logo": "smart-green",
+      "description": "Smart Green is a web platform for agricultural field monitoring.",
+      "gitrepo": "smart_green"
+    },
+    {
+      "name": "TCP-IP communication",
+      "logo": "smart-green",
+      "description": "An implimentation of the TCP-IP communication protocol using Sockets.",
+      "gitrepo": "Socket-TCP-IP"
+    }
+  ]
+}
