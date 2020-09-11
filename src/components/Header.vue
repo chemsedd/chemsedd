@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-sm navbar-dark blue-gradient shadow sticky-top">
+  <nav class="navbar navbar-expand-sm navbar-dark cyan shadow sticky-top">
     <router-link class="navbar-brand font-weight-bold" to="/">Chemsedd</router-link>
     <div class="collapse navbar-collapse" id="collapsibleNavId">
       <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
@@ -22,7 +22,7 @@
 
 <script>
 export default {
-  name: "Header"
+  name: "Header",
 };
 </script>
 
