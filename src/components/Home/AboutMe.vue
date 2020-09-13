@@ -1,14 +1,12 @@
 <template>
   <div class="row align-items-center p-5">
-    <div class="col-md-7 text-dark text-right">
-      <h1 class="display-3 font-weight-bold">
-        About me
-        <h5 class="font-weight-bold">{programmer}</h5>
-      </h1>
-      <p>
-        Hello, my name is
-        <strong>Chems Eddine Senoussi</strong>, I'm a Computer Science graduate with a master's degree in Artificial Intelligence. I've worked on small projects as a frontend and a backend developer. I mainly use Vue.js and Bootstrap 4 (Frontend), and Django (Backend).
-        I started using Python in 2017, i worked on academic projects about Machine/Deep learning and other Artificial Intelligence sub-fields.
+    <div class="col-md-7 text-dark text-left">
+      <h1 class="display-5 font-weight-bold">Mr.Chems Eddine Senoussi</h1>
+      <p class="text-justify">
+        Hello, I'm a Computer Science graduate with a master's degree in
+        <strong>Artificial Intelligence</strong>. I've worked on small projects as a frontend and a backend developer. I mainly use Vue.js and Bootstrap 4 (Frontend), and Django (Backend).
+        I started using
+        <strong>Python</strong> in 2017, i worked on academic projects about Machine/Deep learning and other Artificial Intelligence sub-fields.
         For Graphic Design, i have professional experience of 3 years, i worked with different advertizing agencies in my local area.
       </p>
     </div>
