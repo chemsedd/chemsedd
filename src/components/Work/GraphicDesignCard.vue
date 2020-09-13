@@ -2,12 +2,12 @@
   <div class="card w-75">
     <div class="view overlay zoom">
       <img
-        src="https://picsum.photos/360"
+        src="@/assets/logos/babophone.jpg"
         class="card-img-top img-fluid hoverable"
         alt="Graphic design work"
       />
       <div class="mask flex-center waves-effect waves-light rgba-teal-light">
-        <h2 class="white-text font-weight-bold">Graphic Design</h2>
+        <h1 class="white-text font-weight-bold">Graphic Design</h1>
       </div>
     </div>
   </div>
@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: "GraphicDesign"
+  name: "GraphicDesign",
 };
 </script>
 

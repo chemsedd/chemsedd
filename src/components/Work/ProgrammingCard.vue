@@ -2,8 +2,8 @@
   <div class="card w-75">
     <div class="view overlay zoom">
       <img
-        src="https://picsum.photos/360"
-        class="card-img-top img-fluid hoverable"
+        src="@/assets/programming.png"
+        class="card-img-top img-fluid hoverable w-100"
         alt="Graphic design work"
       />
       <div class="mask flex-center waves-effect waves-light rgba-teal-light">
@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: "Programming"
+  name: "Programming",
 };
 </script>
 
