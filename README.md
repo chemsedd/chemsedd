@@ -1,17 +1,31 @@
-[![@chemseddsen's Holopin board](https://holopin.me/chemseddsen)](https://holopin.io/@chemseddsen)
+## 👨‍💻 About me
+*Hi there 👋*
 
-### 👨‍💻 Hi there 👋
+I am Chems Eddine, a Software Engineer with a focus on Backend Engineering and DevOps. I have experience working with international startups with different teams and technologies. I like working on projects that have an actual impact on our lives.
 
-Am Chems Eddine, a software engineer who is also interested in Artificial Intelligence (like everyone is these days).
-🔭 I’m currently working as a backend developer (Python/Django) for [Data Impact by NIQ](https://dataimpact.io/)
+## 💻 Tech Stack
+- **Programming languages:** Python, Rust, JavaScript, C, Bash
+- **DevOps:** Docker, Kubernetes, Minikube, Terraform, Google Cloud Platform, Git, Linux, SSH
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Frameworks:** django, FastAPI, VueJS, React, kafka, Spark, Wiz, Datadog
+- **Soft skills:** good time management and communication skills, leadership, decision making, flexibility in learning
+- **Other:** SaaS, IaaS, Cloud, micro-services, REST and GraphQL API, gPRC, web sockets, data streaming, design patterns
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chemsedd&count_private=true&show_icons=true&theme=dracula)](https://github.com/chems/github-readme-stats)
+## ⚡ Strongest Skills
+- Backend Development
+- DevOps
+- Building APIs
+- Writing documentation
+- Communications skills (fluent in English, Arabic, and French)
+- Decision making
+- Team work
 
+## 📙 Projects
+I have worked on different Projects:
+- Backend API for *E-commerce Analytics Platform* (with [Data Impact By NielsenIQ](https://dataimpact.io))
+- Frontend and Backend for *Stock Management Dashboard* (with [FenTech](https://fentech.ai))
+- Kanban Board for hospital patients management (personal)
 
-### ⚡ My strong points
-- Algorithms
-- Good practices
-- KISS
-- Communications skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemsedd&theme=dracula&hide=css,jupyter_notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+## 🤙 Contact Me
+chemseddsen@gmail.com
+[Linkedin](https://linkedin.com/in/chemsedd)
