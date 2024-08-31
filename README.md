@@ -4,10 +4,10 @@
 I am Chems Eddine, a Software Engineer with a focus on Backend Engineering and DevOps. I have experience working with international startups with different teams and technologies. I like working on projects that have an actual impact on our lives.
 
 ## 💻 Tech Stack
-- **Programming languages:** Python, Rust, JavaScript, C, Bash
+- **Programming languages:** Python, Ruby, JavaScript, C, Bash
 - **DevOps:** Docker, Kubernetes, Minikube, Terraform, Google Cloud Platform, Git, Linux, SSH
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Frameworks:** django, FastAPI, VueJS, React, kafka, Spark, Wiz, Datadog
+- **Frameworks:** django, FastAPI, Ruby on Rails, VueJS, React, kafka, Spark, Wiz, Datadog
 - **Soft skills:** good time management and communication skills, leadership, decision making, flexibility in learning
 - **Other:** SaaS, IaaS, Cloud, micro-services, REST and GraphQL API, gPRC, web sockets, data streaming, design patterns
 
